@@ -1,4 +1,3 @@
-# Data-Scientist
 # visualization using python
 
 To create this visualization project there are 3 main libraries that will be used, such us:
