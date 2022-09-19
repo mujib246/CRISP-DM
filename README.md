@@ -10,10 +10,15 @@ The Data Science Lifecycle
 Now that you know what is data science, next up let us focus on the data science lifecycle. Data science’s lifecycle consists of five distinct stages, each with its own tasks:
 
 Capture: Data Acquisition, Data Entry, Signal Reception, Data Extraction. This stage involves gathering raw structured and unstructured data.
+
 Maintain: Data Warehousing, Data Cleansing, Data Staging, Data Processing, Data Architecture. This stage covers taking the raw data and putting it in a form that can be used.
+
 Process: Data Mining, Clustering/Classification, Data Modeling, Data Summarization. Data scientists take the prepared data and examine its patterns, ranges, and biases to determine how useful it will be in predictive analysis.
+
 Analyze: Exploratory/Confirmatory, Predictive Analysis, Regression, Text Mining, Qualitative Analysis. Here is the real meat of the lifecycle. This stage involves performing the various analyses on the data.
+
 Communicate: Data Reporting, Data Visualization, Business Intelligence, Decision Making. In this final step, analysts prepare the analyses in easily readable forms such as charts, graphs, and reports.
+
 Prerequisites for Data Science
 Here are some of the technical concepts you should know about before starting to learn what is data science.
 
